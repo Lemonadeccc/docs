@@ -14,4 +14,31 @@ export const sidebar = {
       ],
     },
   ],
+  "/deep/": [
+    {
+      text: "深入架构",
+      items: [
+        {
+          text: "全流程",
+          link: "/deep/full-process",
+        },
+        {
+          text: "预设处理",
+          link: "/deep/pre-processing",
+        },
+        {
+          text: "框架、构架工具与插件",
+          link: "/deep/framework&build-tool&plugin",
+        },
+        {
+          text: "生成器处理",
+          link: "/deep/generator-processing",
+        },
+        {
+          text: "文件树处理",
+          link: "/deep/file-tree-processing",
+        },
+      ],
+    },
+  ],
 };
