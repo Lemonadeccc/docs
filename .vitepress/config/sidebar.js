@@ -27,10 +27,6 @@ export const sidebar = {
           link: "/deep/pre-processing",
         },
         {
-          text: "框架、构架工具与插件",
-          link: "/deep/framework&build-tool&plugin",
-        },
-        {
           text: "生成器处理",
           link: "/deep/generator-processing",
         },
