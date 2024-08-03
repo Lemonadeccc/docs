@@ -19,10 +19,6 @@ export const sidebar = {
       text: "深入架构",
       items: [
         {
-          text: "全流程",
-          link: "/deep/full-process",
-        },
-        {
           text: "预设处理",
           link: "/deep/pre-processing",
         },
